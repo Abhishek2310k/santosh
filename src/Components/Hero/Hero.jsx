@@ -47,10 +47,10 @@ const Hero = () => {
           initial="initial"
           animate="animate"
         >
-          <motion.h2 variants={textVariants}>Santosh Kumar</motion.h2>
-          <motion.h1 variants={textVariants}>
+          <motion.h2 variants={textVariants} style={{fontSize:"60px"}}>Santosh Kumar Prajapat</motion.h2>
+          {/* <motion.h1 variants={textVariants}>
             Robotics Engineer
-          </motion.h1>
+          </motion.h1> */}
           <motion.div variants={textVariants} className="buttons">
             <motion.button variants={textVariants}>
               See the Latest Works

@@ -6,8 +6,8 @@ const items = [
     {
         id:1,
         title:"4 legged robot Dog",
-        img:"https://imgs.search.brave.com/ZbKCnLLUcID4xoZ-KR-NLmQI165S9Z0FiHZbvWda7B4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhlcm9ib3RyZXBv/cnQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE5LzAzL01J/VC1NaW5pLUNoZWV0/YWgtMDEtUFJFU1Mt/MTAyNHg2ODMuanBn",
-        desc:"It is a face Recognition system made using CNN, SVM, FaceNet, Deepface machine learning models. It is capable of marking the attendance of the complete batch with just 1 group photo. It detects individual faces from the group photo and recognises them and after recognition can mark the attendance of the individual on its own",
+        img:"/dog.jpeg",
+        desc:"A four-legged robot, remotely controlled via a joystick, offers real-time visual feedback for precision and stability during inspections. It has various walking mechanisms, self-balancing, and fall recovery modes for stability.",
         link:"https://drive.google.com/drive/folders/1w9XvgW279zFsdY11js6n8th81yPMcV2b?usp=sharing"
     },
 ];
@@ -30,7 +30,7 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <a href={item.link}> Git Repo</a>
+            <a href={item.link}> Details</a>
           </motion.div>
         </div>
       </div>

@@ -36,10 +36,10 @@ const Contact = () => {
     if (formRef.current) {
       emailjs
         .sendForm(
-          "service_lnvy7tv",
-          "template_0qmjqbk",
+          "service_ofwu4or",
+          "template_tfh8r2k",
           formRef.current,
-          "ol1MlzEB9UjogAYRw"
+          "r3dsTUaD1PouU0bbS"
         )
         .then(
           (result) => {
@@ -68,7 +68,7 @@ const Contact = () => {
         <motion.h1 variants={variants}>Let’s work together</motion.h1>
         <motion.div className="item" variants={variants}>
           <h2>Mail</h2>
-          <span>santoshku@iitbhilai.ac.in</span>
+          <span>santoshkumar@iitbhilai.ac.in</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Phone</h2>

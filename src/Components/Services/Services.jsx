@@ -64,7 +64,7 @@ const Services = () => {
           <p>
           The "Cosmo Logistic" theme involves autonomously sorting packages using a robotic arm (UR5) and a mobile robot in a space station warehouse. Initially simulated in Gazebo, stage 2 entails accessing real hardware at IIT Bombay for remote operation.
           </p>
-          <a href="https://drive.google.com/drive/folders/18TkSzFLBN7SlWk5eIhraG6vKoCb0i5wq?usp=sharing" style={{width:"150px"}}>Git Repo</a>
+          <a href="https://drive.google.com/drive/folders/18TkSzFLBN7SlWk5eIhraG6vKoCb0i5wq?usp=sharing" style={{width:"150px"}}>Details</a>
         </motion.div>
         <motion.div
           className="box"
@@ -74,18 +74,7 @@ const Services = () => {
           <p>
           Development of technology for localization using onboard sensors for UGV and UAV. And docking using vision. And implementation of this technology for warehouse management.
           </p>
-          <a href="https://drive.google.com/drive/folders/1sHnQbyKxf6GDL3TszfF5hUATcWHZcPW4?usp=sharing" style={{width:"150px"}}>Git Repo</a>
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>4 legged robot Dog</h2>
-          <p>
-          In this project, we build a bot that first moves in the arena and finds the shortest path by using Flood Fill algorithm, and in the final it will go through the shortest path.
-
-          </p>
-          <a href="https://drive.google.com/drive/folders/1w9XvgW279zFsdY11js6n8th81yPMcV2b?usp=sharing" style={{width:"150px"}}>Git Repo</a>
+          <a href="https://drive.google.com/drive/folders/1sHnQbyKxf6GDL3TszfF5hUATcWHZcPW4?usp=sharing" style={{width:"150px"}}>Details</a>
         </motion.div>
         <motion.div
           className="box"
@@ -95,7 +84,7 @@ const Services = () => {
           <p>
           Building the SB robot swiftly collects segregated waste in cities and deposits it into separate bins. SB Bot used an FPGA for controlling its sensors, actuators, and pick-place mechanism.
           </p>
-          <a href="https://drive.google.com/drive/folders/12umBW8gSPzC5GX6vwj5EmvWuPI43g_46?usp=sharing" style={{width:"150px"}}>Git Repo</a>
+          <a href="https://drive.google.com/drive/folders/12umBW8gSPzC5GX6vwj5EmvWuPI43g_46?usp=sharing" style={{width:"150px"}}>Details</a>
         </motion.div>
         <motion.div
           className="box"
@@ -106,7 +95,7 @@ const Services = () => {
           In this project, we build a bot that first moves in the arena and finds the shortest path by using Flood Fill algorithm, and in the final it will go through the shortest path.
 
           </p>
-          <a href="https://drive.google.com/drive/folders/1t1LulsWbuigVYtpUokf3V-4YkjPrQ8nW?usp=sharing" style={{width:"150px"}}>Git Repo</a>
+          <a href="https://drive.google.com/drive/folders/1t1LulsWbuigVYtpUokf3V-4YkjPrQ8nW?usp=sharing" style={{width:"150px"}}>Details</a>
         </motion.div>
         
         

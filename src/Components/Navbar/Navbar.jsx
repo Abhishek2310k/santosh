@@ -13,12 +13,8 @@ const Navbar = () => {
             transition={{duration:0.5}}
             >Santosh</motion.span>
             <div className='social'>
-                <a href='https://github.com/Abhishek2310k'><img src='/github.png' alt='/'/></a>
-                <a href='https://www.linkedin.com/in/abhishek-kumar-031a81235/'><img src='/linkedin.png' alt='/'/></a>
-                {/* <a href='#'><img src='/instagram.png' alt='/'/></a> */}
-                <a href='https://codeforces.com/profile/AbhishekKu_AK47'><img src='/codeforces.png' alt='/'/></a>
-                <a href='https://www.codechef.com/users/abhishek_2310a'><img src='/codechef.png' alt='/'/></a>
-                <a href='https://leetcode.com/abhishek_0040/'><img src='/leetcode.png' alt='/'/></a>
+                <a href='https://github.com/santosh451'><img src='/github.png' alt='/'/></a>
+                <a href='www.linkedin.com/in/santosh-kumar-prajapat'><img src='/linkedin.png' alt='/'/></a>
             </div>
         </div>
     </div>
